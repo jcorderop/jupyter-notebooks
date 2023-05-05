@@ -1,2 +1,7 @@
 # jupyter-notebooks
-portfolio using jupyter notebook
+
+Python and R examples using jupyter notebook
+
+# Help
+
+https://github.com/jcorderop/DataSciencePortfolio
